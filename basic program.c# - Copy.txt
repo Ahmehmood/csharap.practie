@@ -1,0 +1,7 @@
+// See https://aka.ms/new-console-template for more information
+int valueone= 5;
+int valuetwo= 8;
+
+if(valueone != valuetwo)
+
+Console.WriteLine("some text");
